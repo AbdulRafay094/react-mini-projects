@@ -6,14 +6,14 @@ function App() {
   const users = [
     {
       img: "https://images.unsplash.com/photo-1752170080622-18196de87763?q=80&w=749&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      color: "#8cc7ff",
+      color: "blue",
       intro:
         "Prime customers, that have access to bank credit and are satisfied with the current product",
       tag: "Satisfied",
     },
     {
       img: "https://images.unsplash.com/photo-1635766854982-fc151c6e9278?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      color: "#92bafe",
+      color: "lightseagreen",
       intro:
         "Prime customers, that have access to bank credit and are not satisfied with the current service",
       tag: "Underserved",
