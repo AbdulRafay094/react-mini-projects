@@ -39,7 +39,7 @@ function AddCardForm({ onAddUser }) {
     const data = new FormData();
 
     data.append("file", imageFile);
-    data.append("api_key", "376353648244429");
+    data.append("api_key", "354132624297798");
     data.append("timestamp", timestamp);
     data.append("signature", signature);
 
